@@ -4,4 +4,5 @@
 Project ini dibuat untuk memenuhi tugas praktikum Git & GitHub.
 Nama: HUSNUL MUNAWIR
 NIM: 011250040
-sss
+
+Project ini dilakukan di pertemuan 13
